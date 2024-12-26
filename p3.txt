@@ -1,2 +1,6 @@
 i am vinay
+<<<<<<< Updated upstream
 hi boii
+=======
+hello
+>>>>>>> Stashed changes
